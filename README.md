@@ -49,9 +49,14 @@ mba-knowledge/
 
 ### 18_TVB（Thought-Value-Behavior）
 
-| トピック              | 説明                                                  | ファイル                                                                 |
-| --------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ |
+| トピック | 説明 | ファイル |
+|---------|------|---------|
 | Business Model Canvas | ビジネスモデルを 9 つの要素で可視化するフレームワーク | [business_model_canvas.md](docs/courses/18_TVB/business_model_canvas.md) |
+| サービス・ドミナント・ロジック（価値共創） | 企業と顧客が共に価値を創造する SD ロジックの概念 | [service_dominant_logic.md](docs/courses/18_TVB/service_dominant_logic.md) |
+| ビジネスエコシステム | 複数の経済主体がリソースを補完し合う協業構造 | [business_ecosystem.md](docs/courses/18_TVB/business_ecosystem.md) |
+| 自己強化メカニズムと指数関数的成長 | ネットワーク効果とデータフライホイールによる加速的成長 | [self_reinforcing_mechanism.md](docs/courses/18_TVB/self_reinforcing_mechanism.md) |
+| 市場ポテンシャルの見方 | ニーズの深さ・広さ・長さで市場規模を評価する手法 | [market_potential.md](docs/courses/18_TVB/market_potential.md) |
+| プレモーテム（Pre-mortem） | 失敗を事前に想定してリスクを予防する手法 | [premortem.md](docs/courses/18_TVB/premortem.md) |
 
 ## ドキュメント形式
 
